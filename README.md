@@ -38,17 +38,17 @@ Social Power 的部分主要是比較各種指標之間的關係與散布圖。
 
 並會將其中發現的結論以及數據納入進一步模型的考量。
 
-##NBA ticket Price
+## NBA ticket Price
 
 （同上，細部的作法與其他的結果與視覺化都在`./league tickets price/final_nba 拷貝.ipynb`裡面）
 
-![Unknown-2 copy](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/README%20imgs/Unknown-2 copy.png?raw=true) 
+![Unknown-2 copy](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/README%20imgs/Unknown-2%20copy.png?raw=true) 
 
 這部分主要是透過各種不同的變量去探討影響票價的因素。
 
 並且用不同的模型去以過往票價預測未來票價，並進行比較，主要評估方式用RMSE：
 
-![Unknown-2 copy 2](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/README%20imgs/Unknown-2 copy 2.png?raw=true)
+![Unknown-2 copy 2](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/README%20imgs/Unknown-2%20copy%202.png?raw=true)
 
 
 
