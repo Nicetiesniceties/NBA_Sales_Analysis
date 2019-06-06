@@ -56,7 +56,7 @@ Social Power 的部分主要是比較各種指標之間的關係與散布圖。
 
 （這部分的細節在`./sales/Prediction.ipynb`）
 
-最終我們透過過往票價、上座率、球隊表現與球隊相關的類別資訊做one-hot encoding試著製作了一個NN的模型來預測未來的售票情形，目前的誤差cross validation出來的RMSE誤差在8000多左右。
+最終我們透過過往票價、上座率、球隊表現與球隊相關的類別資訊做one-hot encoding試著製作了一個NN的模型來預測未來的售票情形，目前的誤差cross validation出來的RMSE誤差在8000多左右，換言之，我們的模型準確率高於90%。
 
 ![Unknown](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/README%20imgs/Unknown.png?raw=true)
 
