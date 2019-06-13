@@ -32,11 +32,7 @@
 
 ## Social Power
 
-Social Power 的部分主要是比較各種指標之間的關係與散布圖。
-
-![favorite-retweet](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social%20media/plot/favorite-retweet.png?raw=true)
-
-![PCT-favorite_count](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social%20media/plot/PCT-favorite_count.png?raw=true)
+Social Power 的部分主要是利用Reddit上的資料來促進銷售最佳化
 
 並會將其中發現的結論以及數據納入進一步模型的考量。
 
