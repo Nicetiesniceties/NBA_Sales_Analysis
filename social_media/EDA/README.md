@@ -7,6 +7,7 @@
 ![image](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social_media/EDA/polynomial%20regression(2018-2019%E7%90%83%E5%AD%A3).png)
 #### 1.實際跑各種Regression模型後發現預測結果不如預期，準確率只有6%左右
 #### 2.可斷定score、comment_num並不足以影響上座率，實際上可能還有很多其他因子會影響上座率
+
 ### 實作二-文章情緒分析
 ![image](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social_media/EDA/%E5%90%84%E9%9A%8A%E6%83%85%E7%B7%92%E5%88%86%E6%95%B8%E5%88%86%E5%B8%83%E5%9C%96(2018-2019%E7%90%83%E5%AD%A3).png)
 #### 1.從這張情緒分數分布圖可以看出一整年各隊情緒分數分布大致相同，沒有辦法看出特徵
@@ -17,6 +18,7 @@
 ![image](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social_media/EDA/%E5%8B%87%E5%A3%AB%E9%9A%8A%E6%83%85%E7%B7%92%E5%88%86%E6%95%B8%E6%8A%98%E7%B7%9A%E5%9C%96(2018-2019%E7%90%83%E5%AD%A3)%E6%A9%98%E8%89%B2%E9%BB%9E%E7%82%BA%E7%90%83%E9%9A%8A%E8%BC%B8%E7%90%83%E6%99%82%E9%96%93%E9%BB%9E.png)
 #### 1.橘色點是球隊輸球的時間點，與情緒低點大致吻合
 #### 2.可以推斷影響球迷情緒的主要原因是比賽輸贏
+
 ### 實作三-球迷習慣分析
 ![image](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social_media/EDA/%E5%90%84%E5%80%8B%E6%99%82%E9%96%93%E9%BB%9E%E7%95%99%E8%A8%80%E4%BA%BA%E6%95%B8(%E5%8B%87%E5%A3%AB%E9%9A%8A).png)
 ![image](https://github.com/Nicetiesniceties/NBA_Sales_Analysis/blob/master/social_media/EDA/%E4%B8%80%E5%B9%B4%E9%96%93%E7%95%99%E8%A8%80%E4%BA%BA%E6%95%B8(%E5%8B%87%E5%A3%AB%E9%9A%8A).png)
