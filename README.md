@@ -1,7 +1,7 @@
 # NBA_Sales_Analysis
 > 目前大概完成了7成到8成的工作量，我們的目標是NBA team 的售票revenue預測與分析。
 
-[PRESENTATION SLIDES](https://docs.google.com/presentation/d/1fXd2CWArjOBOYaryN4WLSdQx96RTE8HdQYU_m5wSBnA/edit?usp=sharing)
+[PRESENTATION SLIDES](https://drive.google.com/file/d/14LPfdBaljDZDTEUIccDO4ekDLe1j1WKC/view?usp=sharing)
 
 我們資料分析的大致可以分為：
 
